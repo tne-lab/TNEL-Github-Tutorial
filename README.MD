@@ -1,5 +1,5 @@
 # TNEL Github
-## Some important git commands and when they are used
+## Some git commands 
 mkdir TNELExample<br />
 git clone git@github.com:tne-lab/TNEL-Github-Tutorial.git<br />
 git remote add origin git@github.com:tne-lab/TNEL-Github-Tutorial.git<br />
@@ -12,3 +12,7 @@ git log<br />
 git revert "logID"<br />
 git commit -m "Commit to the main-revert" -m "some simple cmds"<br />
 git push -u origin main<br />
+## difference in the code 
+git status
+## update the local code
+git pull
